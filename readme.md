@@ -1,4 +1,4 @@
-# Targeted Revenue Engine
+# 🚀 Targeted Revenue Engine
 
 A public build-in-progress system for creating small, focused AI-powered revenue engines.
 
@@ -11,7 +11,7 @@ It is about testing focused revenue loops using agentic AI, automation, content 
 
 ---
 
-## Core Model
+## 🧠 Core Model
 
 ```text
 Niche → Content → Traffic → Landing Page → Offer / Lead Capture → Tracking
